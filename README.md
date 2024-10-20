@@ -1,6 +1,7 @@
 # 💻 Vidhi Patel
 
 👩‍💻 **Aspiring Front-end Developer & Data Scientist**  
+
 I am a Computer Science and Engineering student at Indus University with a passion for technology. My academic journey has been a stepping stone toward becoming a proficient full-stack developer. I am currently working as a Full-Stack Developer Intern at The Special Character, where I'm immersed in exciting projects and collaborating with a diverse team.
 
 I am a highly motivated and quick learner, with a strong understanding of the full-stack development process. My role has provided me with hands-on experience in both front-end and back-end development, honing my skills in languages such as HTML, CSS, JavaScript, and Python. Eager to learn new things, I embrace fresh challenges as I continue my journey in the world of technology.
